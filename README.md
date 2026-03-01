@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 Description
 This project integrates real-time California ballot measures into The Sims to visualize how legislative choices directly impact personal finances and urban infrastructure. By transforming dry policy text into interactive quests, it allows voters to "live" through the consequences of their vote—such as changes in rent or commute times—before casting an official ballot.
